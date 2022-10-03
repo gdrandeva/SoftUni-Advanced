@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Basic Stack Operations", "1. Basic Stack Operations\1. Basic Stack Operations.csproj", "{29019862-2DC6-4D2D-97E1-B88975214981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Basic Stack Operations", "1. Basic Stack Operations\1. Basic Stack Operations.csproj", "{29019862-2DC6-4D2D-97E1-B88975214981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Basic Queue Operations", "02. Basic Queue Operations\02. Basic Queue Operations.csproj", "{748B2215-C028-43D2-87E0-9C28103E8BBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Basic Queue Operations", "02. Basic Queue Operations\02. Basic Queue Operations.csproj", "{748B2215-C028-43D2-87E0-9C28103E8BBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Maximum and Minimum Element", "03. Maximum and Minimum Element\03. Maximum and Minimum Element.csproj", "{29C814E4-F83D-4738-BE21-BA6BE87A537A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Maximum and Minimum Element", "03. Maximum and Minimum Element\03. Maximum and Minimum Element.csproj", "{29C814E4-F83D-4738-BE21-BA6BE87A537A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Fast Food", "04. Fast Food\04. Fast Food.csproj", "{D641E277-AB20-47B5-93BE-30021DC8DD1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Fast Food", "04. Fast Food\04. Fast Food.csproj", "{D641E277-AB20-47B5-93BE-30021DC8DD1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{AA8142B3-E5A0-44E9-9B4B-CA285FA8BBF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Fashion Boutique", "5. Fashion Boutique\5. Fashion Boutique.csproj", "{531BFDF8-C329-4247-944F-CC72AFE573E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Songs Queue", "6. Songs Queue\6. Songs Queue.csproj", "{9BD2CC20-ADC6-4F82-8E96-8C2C07AF1B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Truck Tour", "07. Truck Tour\07. Truck Tour.csproj", "{1165BDD6-7C53-44BB-A5F9-9335D5382E1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{D641E277-AB20-47B5-93BE-30021DC8DD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D641E277-AB20-47B5-93BE-30021DC8DD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D641E277-AB20-47B5-93BE-30021DC8DD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8142B3-E5A0-44E9-9B4B-CA285FA8BBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8142B3-E5A0-44E9-9B4B-CA285FA8BBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8142B3-E5A0-44E9-9B4B-CA285FA8BBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8142B3-E5A0-44E9-9B4B-CA285FA8BBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531BFDF8-C329-4247-944F-CC72AFE573E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531BFDF8-C329-4247-944F-CC72AFE573E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531BFDF8-C329-4247-944F-CC72AFE573E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531BFDF8-C329-4247-944F-CC72AFE573E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD2CC20-ADC6-4F82-8E96-8C2C07AF1B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD2CC20-ADC6-4F82-8E96-8C2C07AF1B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD2CC20-ADC6-4F82-8E96-8C2C07AF1B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD2CC20-ADC6-4F82-8E96-8C2C07AF1B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1165BDD6-7C53-44BB-A5F9-9335D5382E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1165BDD6-7C53-44BB-A5F9-9335D5382E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1165BDD6-7C53-44BB-A5F9-9335D5382E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1165BDD6-7C53-44BB-A5F9-9335D5382E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
