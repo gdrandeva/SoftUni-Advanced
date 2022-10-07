@@ -2,14 +2,13 @@
 
 namespace DefiningClasses
 {
-    public class StartUp
+   public class StartUp
     {
         static void Main(string[] args)
         {
             Person person = new Person();
-
-
-            Console.WriteLine(person.Name, person.Age);
+            person.Name = "Gergana";
+            person.Age = 32;
         }
     }
 }

@@ -2,23 +2,23 @@
 
 namespace Demo
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
-           
 
-            
+            Family family = new Family();
+            int count = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(person.Name);
-            Console.WriteLine(person.Age);
-        
-            Person person2 = new Person(20);
-            Person person3 = new Person("Gosho",30);
 
-            Console.WriteLine(person3.Name);
-            Console.WriteLine(person3.Age);
+            for (int i = 0; i < count; i++)
+            {
+                string[] peopleProps = Console.ReadLine()
+                    .Split(' ',StringSplitOptions.RemoveEmptyEntries);
+
+                Person person = new Person(peopleProps[0], int.Parse(peopleProps[1]));
+                family.AddMember
+            }
         }
     }
 }
