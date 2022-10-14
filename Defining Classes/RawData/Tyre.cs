@@ -4,7 +4,11 @@ using System.Text;
 
 namespace RawData
 {
-    class Tire
+   public  class Tyre
     {
+        public double Pressure { get; set; }
+
+        public int Age { get; set; }
+
     }
 }
