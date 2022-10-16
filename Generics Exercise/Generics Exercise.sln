@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxOfString", "ConsoleApp1\BoxOfString.csproj", "{40D2C399-A011-4E39-BB88-16A362E5BB36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxOfInt", "BoxOfInt\BoxOfInt.csproj", "{202A2D2C-B22B-4960-8D7C-0D6560B6582A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSwapMethodStrings", "GenericSwapMethodStrings\GenericSwapMethodStrings.csproj", "{3DB291DF-9BCF-40CA-8387-F453AACBB53D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMethodSwapInt", "GenericMethodSwapInt\GenericMethodSwapInt.csproj", "{7B78E415-10AE-459C-97D4-434BF1364535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodStrings", "GenericCountMethodStrings\GenericCountMethodStrings.csproj", "{0F4E5428-22B2-4A49-97A0-85A7067D4788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{B4B19B21-D8E4-425F-BCDB-0E39A6967571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threeuple", "Threeuple\Threeuple.csproj", "{871FC4C8-3BEB-4730-83E7-7E57BFF202E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D2C399-A011-4E39-BB88-16A362E5BB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D2C399-A011-4E39-BB88-16A362E5BB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D2C399-A011-4E39-BB88-16A362E5BB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D2C399-A011-4E39-BB88-16A362E5BB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202A2D2C-B22B-4960-8D7C-0D6560B6582A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202A2D2C-B22B-4960-8D7C-0D6560B6582A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202A2D2C-B22B-4960-8D7C-0D6560B6582A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202A2D2C-B22B-4960-8D7C-0D6560B6582A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB291DF-9BCF-40CA-8387-F453AACBB53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB291DF-9BCF-40CA-8387-F453AACBB53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB291DF-9BCF-40CA-8387-F453AACBB53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB291DF-9BCF-40CA-8387-F453AACBB53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B78E415-10AE-459C-97D4-434BF1364535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B78E415-10AE-459C-97D4-434BF1364535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B78E415-10AE-459C-97D4-434BF1364535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B78E415-10AE-459C-97D4-434BF1364535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4E5428-22B2-4A49-97A0-85A7067D4788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4E5428-22B2-4A49-97A0-85A7067D4788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4E5428-22B2-4A49-97A0-85A7067D4788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4E5428-22B2-4A49-97A0-85A7067D4788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B19B21-D8E4-425F-BCDB-0E39A6967571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B19B21-D8E4-425F-BCDB-0E39A6967571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B19B21-D8E4-425F-BCDB-0E39A6967571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B19B21-D8E4-425F-BCDB-0E39A6967571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871FC4C8-3BEB-4730-83E7-7E57BFF202E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871FC4C8-3BEB-4730-83E7-7E57BFF202E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871FC4C8-3BEB-4730-83E7-7E57BFF202E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871FC4C8-3BEB-4730-83E7-7E57BFF202E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A15BF50-4CE7-4029-93BA-723A846B7F37}
+	EndGlobalSection
+EndGlobal
