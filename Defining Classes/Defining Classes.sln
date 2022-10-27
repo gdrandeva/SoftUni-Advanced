@@ -7,27 +7,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Creating Constructors", "2. Creating Constructors\2. Creating Constructors.csproj", "{CF3E3198-A5EB-4DB5-9080-33E18654DC5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car", "Car\Car.csproj", "{F68F6E86-AC36-4798-9343-217E23D22616}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Car", "Car\Car.csproj", "{F68F6E86-AC36-4798-9343-217E23D22616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Car Extension", "2. Car Extension\2. Car Extension.csproj", "{A960D54B-2C3B-4408-8EE8-50249EE9E46A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Car Extension", "2. Car Extension\2. Car Extension.csproj", "{A960D54B-2C3B-4408-8EE8-50249EE9E46A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Car Constructors", "03. Car Constructors\03. Car Constructors.csproj", "{E969FF67-AA4A-4D34-BA52-8BE845220B26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Car Constructors", "03. Car Constructors\03. Car Constructors.csproj", "{E969FF67-AA4A-4D34-BA52-8BE845220B26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Car Engine And Tires", "04. Car Engine And Tires\04. Car Engine And Tires.csproj", "{42A11F05-1027-4B37-B2DB-FFAFFB14E618}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Car Engine And Tires", "04. Car Engine And Tires\04. Car Engine And Tires.csproj", "{42A11F05-1027-4B37-B2DB-FFAFFB14E618}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Special Cars", "5. Special Cars\5. Special Cars.csproj", "{69E4301E-B9D1-4691-9146-C9B244600CAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Special Cars", "5. Special Cars\5. Special Cars.csproj", "{69E4301E-B9D1-4691-9146-C9B244600CAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{5D22D769-6EAC-4B25-BBE4-14AF49E04F25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{5D22D769-6EAC-4B25-BBE4-14AF49E04F25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Oldest Family Member", "03. Oldest Family Member\03. Oldest Family Member.csproj", "{183824A8-401D-4D90-9790-69AB3CD1A8AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Oldest Family Member", "03. Oldest Family Member\03. Oldest Family Member.csproj", "{183824A8-401D-4D90-9790-69AB3CD1A8AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpinionPoll", "OpinionPoll\OpinionPoll.csproj", "{CA65CF6E-B03B-4264-908F-8148EDEE48E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpinionPoll", "OpinionPoll\OpinionPoll.csproj", "{CA65CF6E-B03B-4264-908F-8148EDEE48E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "DateModifier\DateModifier.csproj", "{ACA453BA-6BF4-4012-9382-FDB52D87A33F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateModifier", "DateModifier\DateModifier.csproj", "{ACA453BA-6BF4-4012-9382-FDB52D87A33F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{CC9CA671-0E96-4335-B9EC-A1B237727BC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{CC9CA671-0E96-4335-B9EC-A1B237727BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawData", "RawData\RawData.csproj", "{D93E2F3C-7153-42F7-8DDF-2C48245BE254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RawData", "RawData\RawData.csproj", "{D93E2F3C-7153-42F7-8DDF-2C48245BE254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Special Cars v2", "Special Cars v2\Special Cars v2.csproj", "{AF7FE34D-A9CE-49E6-B75F-1F562D98C833}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{D93E2F3C-7153-42F7-8DDF-2C48245BE254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D93E2F3C-7153-42F7-8DDF-2C48245BE254}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D93E2F3C-7153-42F7-8DDF-2C48245BE254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7FE34D-A9CE-49E6-B75F-1F562D98C833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7FE34D-A9CE-49E6-B75F-1F562D98C833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7FE34D-A9CE-49E6-B75F-1F562D98C833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7FE34D-A9CE-49E6-B75F-1F562D98C833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
