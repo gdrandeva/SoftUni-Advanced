@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+
+namespace Telephony.Models
+{
+    using Interfaces;
+    using System.Linq;
+    using Telephony.Exceptions;
+
+    public class StationaryPhone : IStationaryPhone
+    {
+        public StationaryPhone()
+        {
+
+        }
+        public string Call(string phoneNumber)
+        {
+            if (!this.ValidatePhoneNumber(phoneNumber))
+            {
+                throw new InvalidPhioneNumberException();
+            }
+            return $"Dialing... {phoneNumber}";
+        }
+
+        private bool ValidatePhoneNumber(string phoneNumber)
+        => phoneNumber.All(ch => char.IsDigit(ch));
+    }
+}
